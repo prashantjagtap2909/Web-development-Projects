@@ -1,6 +1,6 @@
 # Web-development-Projects
 
-[Calculator]
+[Calculator](https://github.com/prashantjagtap2909/Calculator)
 
 [Heart rate Monitor](https://github.com/prashantjagtap2909/Heart-Rate-Monitor/blob/main/README.md)
 
