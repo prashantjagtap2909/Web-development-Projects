@@ -9,3 +9,4 @@
 
 [Melophile](https://github.com/prashantjagtap2909/Melophile/tree/main)
 
+[React Calculator](https://github.com/prashantjagtap2909/Simple-React-Calculator)
