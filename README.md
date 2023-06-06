@@ -11,5 +11,5 @@
 
 [React Calculator](https://github.com/prashantjagtap2909/Simple-React-Calculator)
 
-[Little Lemmon - Restaurant]
-(https://github.com/prashantjagtap2909/Little-Lemon)
+[Little Lemmon - Restaurant](https://github.com/prashantjagtap2909/Little-Lemon)
+
