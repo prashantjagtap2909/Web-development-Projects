@@ -15,3 +15,5 @@
 
 [Simple Chatbot]()
 
+[Weather.live]()
+
