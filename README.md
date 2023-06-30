@@ -21,5 +21,5 @@
 
 [Password Generator](https://github.com/prashantjagtap2909/Password-Generator)
 
-[Contact Manager])()
+[Contact Manager]()
 
