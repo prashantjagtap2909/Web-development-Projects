@@ -23,7 +23,7 @@
 
 [ 1️⃣1️⃣ Password Generator](https://github.com/prashantjagtap2909/Password-Generator)
 
-[ 1️⃣2️⃣ Contact Manager](https://github.com/prashantjagtap2909/Password-Generator)
+[ 1️⃣2️⃣ Dice ](https://github.com/prashantjagtap2909/Dice)
 
 [ 1️⃣3️⃣ To-do app](https://github.com/prashantjagtap2909/To-Do-app)
 
