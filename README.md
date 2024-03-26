@@ -19,15 +19,15 @@
 
 [ 9️⃣ Weather.live]()
 
-[ 🔟 DrumKit](https://github.com/prashantjagtap2909/DrumKit)
+[🔟 DrumKit](https://github.com/prashantjagtap2909/DrumKit)
 
-[ 1️⃣1️⃣ Password Generator](https://github.com/prashantjagtap2909/Password-Generator)
+[1️⃣1️⃣ Password Generator](https://github.com/prashantjagtap2909/Password-Generator)
 
-[ 1️⃣2️⃣ Dice ](https://github.com/prashantjagtap2909/Dice)
+[1️⃣2️⃣ Dice ](https://github.com/prashantjagtap2909/Dice)
 
-[ 1️⃣3️⃣ To-do app](https://github.com/prashantjagtap2909/To-Do-app)
+[1️⃣3️⃣ To-do app](https://github.com/prashantjagtap2909/To-Do-app)
 
-[ 1️⃣4️⃣ Connecting](https://github.com/prashantjagtap2909/Connecting)
+[1️⃣4️⃣ Connecting](https://github.com/prashantjagtap2909/Connecting)
 
 [1️⃣5️⃣ Blogify]()
 
@@ -39,7 +39,7 @@
 
 [1️⃣9️⃣ Keeper-app](https://github.com/prashantjagtap2909/Keeper-app)
 
-[Redux Counter App]()
+[2️⃣0️⃣Redux Counter App](https://github.com/prashantjagtap2909/Counter-App-Redux)
 
 [Snapsemble]()
 
